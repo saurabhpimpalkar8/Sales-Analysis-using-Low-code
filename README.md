@@ -1,4 +1,4 @@
-# Sales-Analysis-using-Low-code
+# Sales-Analysis-using-Low-code-Platform
 
 ## Traditional Machine Learning Approach:
 
